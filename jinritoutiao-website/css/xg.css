@@ -1,0 +1,18 @@
+/* container */
+.container{background: #f4f5f5;}
+
+.video_con{background: #fff;margin-bottom: 0.11rem;}
+.video_con>img{width: 100%;}
+
+.video_info{padding: 0.18rem 0.27rem;}
+
+.person_info{float: left;line-height: 0.65rem;}
+.person_info img{width: 0.65rem;float: left;}
+.person_info h2{float: left;font-size: 0.24rem;font-weight: bold;margin-left: 0.15rem;}
+.person_info span{float: left;font-size: 0.18rem;color: #e5e5e5;margin-left: 0.14rem;margin-right: 0.19rem;}
+.person_info i{float: left;font-size: 0.24rem;color:#e5625c;}
+
+.talk{float: right;padding-top: 0.15rem;line-height: 0.36rem;}
+.talk .icon-duihua{font-size: 0.36rem;float: left;color: #1e1e1e;}
+.talk span{font-size: 0.16rem;float: left;color: #1e1e1e;margin-left: 0.11rem;}
+.talk .icon-shenglve{font-size: 0.07rem;float: left;color: #1e1e1e;margin-left: 0.49rem;margin-right: 0.08rem;}

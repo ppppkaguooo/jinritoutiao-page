@@ -1,0 +1,13 @@
+/* container */
+.container{padding: 0 0.28rem;}
+.newsCon{border-bottom: solid 1px #f1f1f1;padding-top: 0.26rem;}
+.newsCon h1{font-size: 0.32rem;line-height: 0.44rem;color: #1f1f1f;}
+.newsCon>img{width: 100%;margin-top: 0.08rem;margin-bottom: 0.05rem;}
+
+.newInfo{padding-top: 0.1rem;padding-bottom: 0.24rem;}
+.new_hot{float: left;}
+.new_hot i{float: left;width: 0.33rem;height: 0.24rem;background: url(../img/hot.jpg) no-repeat;background-size: cover;}
+.new_hot span{float: left;font-size:0.2rem;line-height: 1;}
+.new_hot span:nth-of-type(1){margin-left: 0.09rem;margin-right: 0.17rem;}
+.new_hot span:last-child{margin-left: 0.15rem;}
+.err{float: right;width: 0.3rem;height: 0.21rem;background: url(../img/err.jpg) no-repeat;background-size: cover;margin-top:0.02rem;}
